@@ -4,7 +4,10 @@
 #define admin_menu_h
 
 #include <iostream>
-#include <iostream>
+#include <cstring>
+
+using namespace std;
+
 void adminMenu();
 void viewAcc();
 void createEmp();
