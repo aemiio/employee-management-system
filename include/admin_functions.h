@@ -5,6 +5,8 @@
 
 #include <iostream>
 #include <cstring>
+#include "../include/login.h"
+#include "../include/user_functions.h"
 
 using namespace std;
 
